@@ -31,14 +31,11 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:abelrosalesg@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/abelrg25
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -47,65 +44,49 @@ profiles:
     url: https://orcid.org/
 
 interests:
+  - Machine Learning
+  - Data Analysis
+  - Data visualization
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Science
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Astrophysics
+    institution: Instituto de Astronomía, Universidad Nacional Autónoma de México
+    date_start: 2020-01-01
+    date_end: 2024-06-10
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Interferometric imaging of evolved stars. 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M. S. in Astrophysics
+    institution: Instituto de Astronomía, Universidad Nacional Autónoma de México
+    date_start: 2017-08-01
+    date_end: 2019-07-22
     summary: |
-      GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc in Physics
+    institution: Facultad de Ciencias, Universidad Nacional Autónoma de México
+    date_start: 2010-08-01
+    date_end: 2017-06-22
     summary: |
       GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Math and Physics Tutor for High School Students
+    company_name: Self Employed
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2017
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Provided personalized tutoring sessions in mathematics and physics to high school students.
+      - Assisted students in understanding complex concepts, improving grades, and building confidence in their academic abilities.
+      - Tailored lessons to meet individual student needs, adapting approaches to suit different learning styles and knowledge levels.
+      - Developed engaging lesson plans, practice exercises, and strategies for problem-solving.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -116,38 +97,36 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Data Analysis
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 80
         icon: circle-stack
+      - name : Statistics
+        description: ''
+        percent: 80
+        icon: 🧮
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Reading
         description: ''
         percent: 100
-        icon: cat
+        icon: academicon/obp
       - name: Photography
         description: ''
         percent: 80
         icon: camera
 
 languages:
+  - name: Spanish
+    percent: Native 
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: B2
 
 # Awards.
 #   Add/remove as many awards below as you like.
