@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Astrophysicist | Data Analyst | Python Programmer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: ''
+    url: ''
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -116,7 +116,7 @@ skills:
       - name: Reading
         description: ''
         percent: 100
-        icon: academicon/obp
+        icon: obp
       - name: Photography
         description: ''
         percent: 80
@@ -133,13 +133,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: Introduction to Data Science in Python
+    url: https://www.coursera.org/programs/mooc-unam-en-coursera-para-ti-uzeau/learn/python-data-analysis
+    date: '2024-08-01'
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      I studied the foundational concept of Data Science with python. By the end of the course, I was familiar with data manipulation and cleaning techniques using the python pandas data science library. I also learned about Series and DataFrames as the central data structures for data analysis. Furthermore, I also learned how to run basic inferential statistical analyses.      
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
@@ -161,4 +161,5 @@ awards:
 ---
 
 ## About Me
-Abel Rosales is a Ph. D. in Astrophysics. His research interests include Data Analysis, Data Science, Python
+THIS PAGE IS UNDER CONSTRUCTION
+Hello! My name is Abel Rosales and I am a Ph. D. in Astrophysics. My research interests include the study of evolved stars, also called AGB stars (AGB stands fo Asymptotic Giant Branc) through interferometric imaging. I also love programming, so, I love the Data Analysis and Data Science fields.

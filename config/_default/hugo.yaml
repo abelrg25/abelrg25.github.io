@@ -6,7 +6,7 @@
 # Website name
 title: Abel Rosales CV
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: ''
 
 ############################
 ## LANGUAGE
