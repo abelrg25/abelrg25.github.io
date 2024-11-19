@@ -123,10 +123,10 @@ skills:
         icon: camera
 
 languages:
-  - name: Spanish
-    percent: Native 
-  - name: English
-    percent: B2
+  - name: Spanish (Native)
+    percent: 100 
+  - name: English - B2
+    percent: ''
 
 # Awards.
 #   Add/remove as many awards below as you like.
