@@ -6,18 +6,19 @@ title: 'Convection Cells in AGB stars'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - J. Sanchez Bermudez
+  - C. Paladini
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2024-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-01-07T00:00:00Z'
+publishDate: '2024-07-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -46,7 +47,7 @@ abstract: Context. Stellar convection plays an important role in atmospheric dyn
 # Summary. An optional shortened abstract.
 summary: 
 tags:
-- high angular resolution techniques -AGB and post-AGB stars  – imaging – R Car
+- high angular resolution techniques, AGB and post-AGB stars, image reconstruction, R Car
 
 # Display this page in the Featured widget?
 featured: true
@@ -57,18 +58,18 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://www.aanda.org/articles/aa/full_html/2023/06/aa45370-22/aa45370-22.html'
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+#url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**A&A**](https://www.aanda.org/articles/aa/full_html/2024/08/aa49112-23/F1.html)'
   focal_point: ''
   preview_only: false
 
@@ -88,12 +89,8 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+ {{% callout note %}}
+Have you ever seen convection in stars different than the Sun? Well, we made that possible for a nearby evolved star: R Car
 {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+ Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
