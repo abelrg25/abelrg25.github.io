@@ -37,11 +37,11 @@ profiles:
   - icon: brands/github
     url: https://github.com/abelrg25
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/abel-rosales-guzmán-71aa1b192
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0000-5049-9389
 
 interests:
   - Machine Learning
@@ -56,17 +56,22 @@ education:
     date_start: 2020-01-01
     date_end: 2024-06-10
     summary: |
-      Thesis on Interferometric imaging of evolved stars. 
+      During my Ph.D., I focused on the study of evolved stars known as AGBs (Asymptotic Giant Branch) using high-angular-resolution techniques. The objective of my doctoral research was to address the following questions as thoroughly as possible:
+      1. What mechanisms drive mass loss and the formation of asymmetric gas and dust structures in AGB stars?
+      2. How important is the chemical composition of the gas and dust surrounding these stars for wind formation? How does convection operate in stars other than the Sun?
+      To this day, these questions remain unresolved. Although AGB stars are among the main contributors to the enrichment of the interstellar medium, the process by which processed material is returned to the interstellar medium remains poorly characterized.
+      To tackle these questions, I obtained, reduced, and cleaned data from one of the world’s most important observatories, the VLTI. Additionally, I applied Monte Carlo methods, mathematical modeling, image visualization, and manipulation techniques. 
+      Abstract thinking, combined with analytical and critical reasoning, played a crucial role in interpreting the results obtained by my collaborators and me. This work led to publications in high-impact journals, contributing to scientific progress. 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: M. S. in Astrophysics
+  - area: M. Sc. in Astrophysics
     institution: Instituto de Astronomía, Universidad Nacional Autónoma de México
     date_start: 2017-08-01
     date_end: 2019-07-22
     summary: |
 
-  - area: BSc in Physics
+  - area: B.Sc. in Physics
     institution: Facultad de Ciencias, Universidad Nacional Autónoma de México
     date_start: 2010-08-01
     date_end: 2017-06-22
@@ -78,7 +83,7 @@ work:
     company_name: Self Employed
     company_url: ''
     company_logo: ''
-    date_start: 2017
+    date_start: 2017-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
