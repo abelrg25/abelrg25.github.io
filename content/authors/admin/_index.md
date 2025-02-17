@@ -33,7 +33,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:abelrosalesg@gmail.com'
     label: E-mail Me
-  - icon: brands/x
   - icon: brands/github
     url: https://github.com/abelrg25
   - icon: brands/linkedin
@@ -47,7 +46,6 @@ interests:
   - Machine Learning
   - Data Analysis
   - Data visualization
-  - Artificial Intelligence
   - Data Science
 
 education:
@@ -60,6 +58,7 @@ education:
       1. What mechanisms drive mass loss and the formation of asymmetric gas and dust structures in AGB stars?
       2. How important is the chemical composition of the gas and dust surrounding these stars for wind formation? How does convection operate in stars other than the Sun?
       To this day, these questions remain unresolved. Although AGB stars are among the main contributors to the enrichment of the interstellar medium, the process by which processed material is returned to the interstellar medium remains poorly characterized.
+      
       To tackle these questions, I obtained, reduced, and cleaned data from one of the world’s most important observatories, the VLTI. Additionally, I applied Monte Carlo methods, mathematical modeling, image visualization, and manipulation techniques. 
       Abstract thinking, combined with analytical and critical reasoning, played a crucial role in interpreting the results obtained by my collaborators and me. This work led to publications in high-impact journals, contributing to scientific progress. 
     button:
@@ -80,11 +79,11 @@ education:
       
 work:
   - position: Math and Physics Tutor for High School Students
-    company_name: Self Employed
+    company_name: Independent
     company_url: ''
     company_logo: ''
     date_start: 2017-01-01
-    date_end: ''
+    date_end: '2020-01-03'
     summary: |2-
       Responsibilities include:
       - Provided personalized tutoring sessions in mathematics and physics to high school students.

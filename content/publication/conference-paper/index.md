@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Convection Cells in AGB stars'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -17,24 +17,36 @@ date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-01-07T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['paper']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *Astronomy & Astrophysics*
+publication_short: In *A&A*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Context. Stellar convection plays an important role in atmospheric dynamics, wind formation, and the mass-loss processes in asymptotic
+  giant branch stars. However, a direct characterization of convective surface structures in terms of size, contrast, and lifespan is
+  quite challenging, as spatially resolving these features requires the highest angular resolution.
+  Aims. We aim to characterize the size of convective structures on the surface of the O-rich AGB star R Car to test different theoretical
+  predictions based on mixing-length theory from solar models.
+  Methods.We used infrared low-spectral resolution (R ~ 35) interferometric data in the H-band (~1.76 microns) obtained by the instrument
+  PIONIER at the Very Large Telescope Interferometer (VLTI) to image the star’s surface at two epochs separated by approximately
+  six years. Using a power spectrum analysis, we estimated the horizontal size of the structures on the surface of R Car. The sizes of the
+  stellar disk at dfferent phases of a pulsation cycle were obtained using parametric model fitting in the Fourier domain.
+  Results. Our analysis supports that the sizes of the structures in R Car are correlated with variations in the pressure scale height in the
+  atmosphere of the target, as predicted by theoretical models based on solar convective processes. We observed that these structures
+  grow in size when the star expands within a pulsation cycle. While the information is still scarce, this observational finding highlights
+  the role of convection in the dynamics of those objects. New interferometric imaging campaigns with the renewed capabilities of the
+  VLTI are envisioned to expand our analysis to a larger sample of objects.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: 
 tags:
-  - Large Language Models
+  - techniques: high angular resolution – stars: AGB and post-AGB – stars: imaging – stars: individual: R Car
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,14 +56,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_pdf: 'https://www.aanda.org/articles/aa/full_html/2023/06/aa45370-22/aa45370-22.html'
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
