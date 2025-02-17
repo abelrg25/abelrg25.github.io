@@ -46,7 +46,7 @@ abstract: Context. Stellar convection plays an important role in atmospheric dyn
 # Summary. An optional shortened abstract.
 summary: 
 tags:
-  - techniques: high angular resolution – stars: AGB and post-AGB – stars: imaging – stars: individual: R Car
+- high angular resolution techniques -AGB and post-AGB stars  – imaging – R Car
 
 # Display this page in the Featured widget?
 featured: true
@@ -57,13 +57,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://www.aanda.org/articles/aa/full_html/2023/06/aa45370-22/aa45370-22.html'
-#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-#url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-#url_poster: ''
-#url_project: ''
-#url_slides: ''
-#url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-#url_video: 'https://youtube.com'
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
