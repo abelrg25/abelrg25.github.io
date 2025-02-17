@@ -29,7 +29,7 @@ publication_types: ['paper']
 publication: In *Astronomy & Astrophysics*
 publication_short: In *A&A*
 
-abstract: Context. Stellar convection plays an important role in atmospheric dynamics, wind formation, and the mass-loss processes in asymptotic
+abstract: <div align="justify">  Context. Stellar convection plays an important role in atmospheric dynamics, wind formation, and the mass-loss processes in asymptotic
   giant branch stars. However, a direct characterization of convective surface structures in terms of size, contrast, and lifespan is
   quite challenging, as spatially resolving these features requires the highest angular resolution.
   Aims. We aim to characterize the size of convective structures on the surface of the O-rich AGB star R Car to test different theoretical
@@ -42,7 +42,7 @@ abstract: Context. Stellar convection plays an important role in atmospheric dyn
   atmosphere of the target, as predicted by theoretical models based on solar convective processes. We observed that these structures
   grow in size when the star expands within a pulsation cycle. While the information is still scarce, this observational finding highlights
   the role of convection in the dynamics of those objects. New interferometric imaging campaigns with the renewed capabilities of the
-  VLTI are envisioned to expand our analysis to a larger sample of objects.
+  VLTI are envisioned to expand our analysis to a larger sample of objects.  </div>
 
 # Summary. An optional shortened abstract.
 summary: 
