@@ -29,16 +29,19 @@ publication_types: ['paper']
 publication: In *Astronomy & Astrophysics*
 publication_short: In *A&A*
 
-abstract: <div align="justify">  Context. Stellar convection plays an important role in atmospheric dynamics, wind formation, and the mass-loss processes in asymptotic
+abstract: <div align="justify">  **Context.** Stellar convection plays an important role in atmospheric dynamics, wind formation, and the mass-loss processes in asymptotic
   giant branch stars. However, a direct characterization of convective surface structures in terms of size, contrast, and lifespan is
   quite challenging, as spatially resolving these features requires the highest angular resolution.
-  Aims. We aim to characterize the size of convective structures on the surface of the O-rich AGB star R Car to test different theoretical
+  
+  **Aims.** We aim to characterize the size of convective structures on the surface of the O-rich AGB star R Car to test different theoretical
   predictions based on mixing-length theory from solar models.
-  Methods.We used infrared low-spectral resolution (R ~ 35) interferometric data in the H-band (~1.76 microns) obtained by the instrument
+  
+  **Methods.** We used infrared low-spectral resolution (R ~ 35) interferometric data in the H-band (~1.76 microns) obtained by the instrument
   PIONIER at the Very Large Telescope Interferometer (VLTI) to image the star’s surface at two epochs separated by approximately
   six years. Using a power spectrum analysis, we estimated the horizontal size of the structures on the surface of R Car. The sizes of the
   stellar disk at dfferent phases of a pulsation cycle were obtained using parametric model fitting in the Fourier domain.
-  Results. Our analysis supports that the sizes of the structures in R Car are correlated with variations in the pressure scale height in the
+  
+  **Results.** Our analysis supports that the sizes of the structures in R Car are correlated with variations in the pressure scale height in the
   atmosphere of the target, as predicted by theoretical models based on solar convective processes. We observed that these structures
   grow in size when the star expands within a pulsation cycle. While the information is still scarce, this observational finding highlights
   the role of convection in the dynamics of those objects. New interferometric imaging campaigns with the renewed capabilities of the
@@ -90,7 +93,7 @@ slides: example
 ---
 
  {{% callout note %}}
-Have you ever seen convection in stars different than the Sun? Well, we made that possible for a nearby evolved star: R Car
+If you search for images of the Sun on the internet, you will likely find many showing a granular pattern caused by convective currents. But did you know that evolved stars exhibit gigantic granular patterns? In this article, we show you what these structures look like for an AGB star called R Car
 {{% /callout %}}
 
  Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
