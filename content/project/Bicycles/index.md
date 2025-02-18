@@ -1,6 +1,6 @@
 ---
 title: PyTorch
-date: 2023-10-26
+date: 2025-02-18
 external_link: https://github.com/abelrg25/bicycles_data_analysis
 tags:
   - Data Analysis, Chicago bicycles, R, Kaggle
