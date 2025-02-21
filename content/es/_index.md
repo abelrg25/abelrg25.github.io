@@ -16,12 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV in Spanish
-        url: uploads/ARG_DataScCV_ESP.pdf
-      
-      button: 
-        text: Download CV in English
-        url: uploads/ARG_DataScCV_ENG.pdf
+        text: Descargar CV 
+        url: uploads/ARG_DataScCV_ESP.pdf      
     design:
       css_class: dark
       background:
