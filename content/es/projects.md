@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'Proyectos'
 date: 2024-05-19
 type: landing
 
@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: Here are a selection of projects that I have worked on over the years.
+      title: Proyectos Seleccionados
+      text: Aquí encontrarás una serie de proyectos que he llevado a cabo a lo largo de mi carrera 
       filters:
         folders:
           - project

@@ -35,14 +35,14 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        As a Ph. D. student, I led various projects that resulted in the publication of two research articles in high-impact journals worldwide. I also collaborated with international groups on different projects, which led to the publication of three additional scientific articles. During this period, I developed a range of skills, including a comprehensive understanding of Python and its various data analysis packages such as Pandas, NumPy, SciPy, and Scikit-learn, as well as visualization packages like Matplotlib, which facilitated my preparation and interpretation of graphs. I also gained experience with operating systems such as macOS, Linux, and Windows. Additionally, I learned to present my results at various national and international conferences, in both English and Spanish, to audiences from a wide range of scientific disciplines. 
-        Please reach out to collaborate 😃
+        <div align="justify"> Como estudiante de Doctorado en Astrofísica, lideré dos proyectos que finalizaron en la publicaión de dos artículos de investigación en revistas de alto impacto en el mundo. También colaboré con grupos internacionales en diferentes proyectos, lo que también resultó en la publicación de tres artículos de investigación más. Durante mi periodo como doctorante desarrollé diversas habilidades entre las que se enecuentran: el entendimiento de Python y sus diversos paquetes de análisis de datos como Pandas, Numpy, Scipy, Astropy, Scikit-learn, entre otros, así como también paquetes de visualización como Matplotlib, lo que me failitó la preparación y el entendiemiento de gráficas. También obtuve experiencie con sistemas operativos como MacOS, Linux, y Windows. Finalmente pero no menos importante, aprendí a presentar mis resultados en diversas conferencias tanto a nivel nacional como internacional, en inglés y en español y para audiencias de diveras disciplinas científicas.   
+        Colaboremos juntos! 😃 </div>
     design:
       columns: '1'
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Publicaciones Destacadas
       filters:
         folders:
           - publication
@@ -52,7 +52,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Publicaciones Recientes 
       text: ""
       filters:
         folders:
@@ -63,7 +63,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Charlas
       filters:
         folders:
           - event
@@ -73,7 +73,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Noticias Recientes
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...

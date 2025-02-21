@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Abel Rosales Guzmán Ph.D.
+title: Dr. Abel Rosales Guzmán
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Astrophysicist | Data Analyst | Python Programmer
+role: Astrophysico | Analista de Datos | Programador de Python
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -44,12 +44,12 @@ profiles:
 
 interests:
   - Machine Learning
-  - Data Analysis
-  - Data visualization
-  - Data Science
+  - Análisis de datos
+  - Visualización de datos
+  - Ciencia de Datos 
 
 education:
-  - area: PhD in Astrophysics
+  - area: Doctorado en Astrofísica
     institution: Instituto de Astronomía, Universidad Nacional Autónoma de México
     date_start: 2020-01-01
     date_end: 2024-06-10
