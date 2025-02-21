@@ -120,8 +120,8 @@ skills:
       - name: Leer
         description: ''
         percent: 100
-        icon: obp
-        icon_pack: ai
+        icon: book
+        icon_pack: fab
       - name: Photography
         description: ''
         percent: 80
