@@ -16,8 +16,11 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Download CV in Spanish
         url: uploads/ARG_DataScCV_ESP.pdf
+      button: 
+        text: Download CV in English
+        url: uploads/ARG_DataScCV_ENG.pdf
     design:
       css_class: dark
       background:
@@ -100,7 +103,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
   - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
       title: 👉 Build your own academic website like this
       text: |-
