@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Astrophysico | Analista de Datos | Programador de Python
+role: Astrofísico | Analista de Datos | Programador de Python
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:abelrosalesg@gmail.com'
+    url: 'mailto:jarosalesgu@gmail.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/abelrg25
@@ -54,23 +54,23 @@ education:
     date_start: 2020-01-01
     date_end: 2024-06-10
     summary: |
-      During my Ph.D., I focused on the study of evolved stars known as AGBs (Asymptotic Giant Branch) using high-angular-resolution techniques. The objective of my doctoral research was to address the following questions as thoroughly as possible:
-      1. What mechanisms drive mass loss and the formation of asymmetric gas and dust structures in AGB stars?
-      2. How important is the chemical composition of the gas and dust surrounding these stars for wind formation? How does convection operate in stars other than the Sun?
-      To this day, these questions remain unresolved. Although AGB stars are among the main contributors to the enrichment of the interstellar medium, the process by which processed material is returned to the interstellar medium remains poorly characterized.
-      
-      To tackle these questions, I obtained, reduced, and cleaned data from one of the world’s most important observatories, the VLTI. Additionally, I applied Monte Carlo methods, mathematical modeling, image visualization, and manipulation techniques. 
-      Abstract thinking, combined with analytical and critical reasoning, played a crucial role in interpreting the results obtained by my collaborators and me. This work led to publications in high-impact journals, contributing to scientific progress. 
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: M. Sc. in Astrophysics
+      <div align="justify"> Durante mi doctorado me dediqué al estudio de estrellas evolucionadas conocidas como estrellas AGB (por sus siglas en inglés Asymptotic Giant Branch stars) utilizando técnicas de alta resolución angular. El objetivo de mi trabajo doctoral era tratar de responder de la mejor manera las siguientes preguntas: 
+      1.¿Qué mecanismos dan lugar a la pérdida de masa y a la formación de estructuras asimétricas de gas y polvo en estrellas AGB? 
+      2. ¿Qué tan importante es la composición química del gas y polvo circundante a las estrellas para la formación de vientos? 
+      3. ¿Cómo funciona la convección en estrellas diferentes al Sol?
+      Al día de hoy, estas son preguntas que no tienen una respuesta concreta. Aunque las estrellas AGB son de las principales contribuyentes al enriquecimiento del medio interestelar, la manera en la que el material procesado durante la evolución de la estrella es devuelto al medio interestelar es un fenómeno que no se encuentra caracterizado completamente. 
+      Para abordar estas preguntas obtuve, reduje y limpié datos de la base de datos de uno de los observatorios más importantes del mundo, el [VLTI](https://www.eso.org/sci/facilities/paranal/telescopes/vlti.html) (por sus siglas en inglés Very Large Telescope Interferometer ). Además puse en práctica el uso de métodos Monte Carlo, modelado matemático, visualización y manipulación de imágenes. La capacidad de abstracción, aunada a un pensamiento analítico y crítico, fueron de gran importancia para entender los resultados que mis colaboradores y yo obtuvimos y para poder publicar en revistas de alto impacto y así contribuir al avance de la ciencia.  </div>
+    #button:
+     # text: 'Read Thesis'
+      #url: 'https://example.com'
+  
+  - area: Maestro en Ciencias (Astrofísica)
     institution: Instituto de Astronomía, Universidad Nacional Autónoma de México
     date_start: 2017-08-01
     date_end: 2019-07-22
     summary: |
 
-  - area: B.Sc. in Physics
+  - area: Físico
     institution: Facultad de Ciencias, Universidad Nacional Autónoma de México
     date_start: 2010-08-01
     date_end: 2017-06-22
@@ -78,24 +78,24 @@ education:
       GPA: 3.4/4.0
       
 work:
-  - position: Math and Physics Tutor for High School Students
-    company_name: Independent
+  - position: Tutor de física y matemáticas para estudiantes de preparatoria
+    company_name: Independiente
     company_url: ''
     company_logo: ''
     date_start: 2017-01-01
     date_end: '2020-01-03'
     summary: |2-
-      Responsibilities include:
-      - Provided personalized tutoring sessions in mathematics and physics to high school students.
-      - Assisted students in understanding complex concepts, improving grades, and building confidence in their academic abilities.
-      - Tailored lessons to meet individual student needs, adapting approaches to suit different learning styles and knowledge levels.
-      - Developed engaging lesson plans, practice exercises, and strategies for problem-solving.
+      Responsabilidades:
+      - Proveer sesiones de tutoría personalizadas en matemáticas y física a estudiantes de preparatoria.
+      - Ayudar a los estudiantes a entender conceptos complejos, mejorar calificaciones y crear confianza en sus actividades académicas.
+      - Adapté las lecciones a las necesidades individuales de cada estudiante, ajustando los enfoques según distintos estilos de aprendizaje y niveles de conocimiento.
+      - Desarrollé lecciones atractivas, ejercicios de práctica y estrategias para la resolución de problemas.
 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Habilidades técnicas
     items:
       - name: Python
         description: ''
@@ -109,15 +109,15 @@ skills:
         description: ''
         percent: 80
         icon: circle-stack
-      - name : Statistics
+      - name : Estadística
         description: ''
         percent: 80
         icon: 🧮
-  - name: Hobbies
+  - name: Pasatiempos
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Reading
+      - name: Leer
         description: ''
         percent: 100
         icon: obp
@@ -127,9 +127,9 @@ skills:
         icon: camera
 
 languages:
-  - name: Spanish (Native)
+  - name: Español (Nativo)
     percent: 100 
-  - name: English - B2
+  - name: Inglés - B2
     percent: ''
 
 # Awards.
@@ -166,4 +166,4 @@ awards:
 
 ## About Me
 THIS PAGE IS UNDER CONSTRUCTION
-Hello! My name is Abel Rosales and I am a Ph. D. in Astrophysics. My research interests include the study of evolved stars, also called AGB stars (AGB stands fo Asymptotic Giant Branc) through interferometric imaging. I also love programming, so, I love the Data Analysis and Data Science fields.
+¡Hola! Me llamo Abel y soy Dr. en Astrofísica por la UNAM. Dentro de mis intereses científicos se encuentra el estudio de estrellas evolucionadas conocidas como estrellas AGB (por sus siglás en inglés Asymptotic Giant Branch stars) con técnicas de alta resolución angular y reconstrucción de imágenes. Me gusta mucho programar y analizar lo que los datos esconden una vez que los desciframos. Por ello me dediqué a la investigación. 
