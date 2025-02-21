@@ -101,7 +101,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Analysis
+      - name: Análisis de datos
         description: ''
         percent: 80
         icon: chart-bar
@@ -112,7 +112,8 @@ skills:
       - name : Estadística
         description: ''
         percent: 80
-        icon: 🧮
+        icon: chart-bar
+        icon_pack: fas
   - name: Pasatiempos
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -120,8 +121,8 @@ skills:
       - name: Leer
         description: ''
         percent: 100
-        icon: book
-        icon_pack: fab
+        icon: book-open
+        icon_pack: fas
       - name: Photography
         description: ''
         percent: 80
@@ -166,5 +167,5 @@ awards:
 ---
 
 ## Acerca de mi
-THIS PAGE IS UNDER CONSTRUCTION
+Página en construcción
 ¡Hola! Me llamo Abel y soy Dr. en Astrofísica por la UNAM. Dentro de mis intereses científicos se encuentra el estudio de estrellas evolucionadas conocidas como estrellas AGB (por sus siglás en inglés Asymptotic Giant Branch stars) con técnicas de alta resolución angular y reconstrucción de imágenes. Me gusta mucho programar y analizar lo que los datos esconden una vez que los desciframos. Por ello me dediqué a la investigación. 
