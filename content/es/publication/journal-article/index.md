@@ -1,5 +1,5 @@
 ---
-title: "Characterizing the innermost gaseous layers of an AGB star"
+title: "Caracterización de las capas de gas más cercanas a una estrella AGB"
 authors:
 - admin
 - J. Sanchez Bermudez

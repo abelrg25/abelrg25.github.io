@@ -1,11 +1,11 @@
 ---
-title: Example analysis of the M-type Mira star R Car 
+title: Ejmplo de análisis llevado a cabo con datos de la estrella de tipo M "R Car" 
 date: 2023-02-01
 external_link: https://github.com/abelrg25/RCar_GRAVITY
 tags:
-  - Data analysis, Model fitting, Python, Jupyter Notebook
+  - Análisis de datos, Ajuste de Modelos, Python, Jupyter Notebook
 ---
 
-An example of the analysis I performed for R Car's interferometric data. 
+En este repositorio se encuentra un ejemplo del análisis que realicé sobre los datos interferométricos de la estrella R Car.  
 
 <!--more-->

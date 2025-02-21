@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Mi investigación'
       subtitle: ''
       text: |-
         <div align="justify"> Como estudiante de Doctorado en Astrofísica, lideré dos proyectos que finalizaron en la publicaión de dos artículos de investigación en revistas de alto impacto en el mundo. También colaboré con grupos internacionales en diferentes proyectos, lo que también resultó en la publicación de tres artículos de investigación más. Durante mi periodo como doctorante desarrollé diversas habilidades entre las que se enecuentran: el entendimiento de Python y sus diversos paquetes de análisis de datos como Pandas, Numpy, Scipy, Astropy, Scikit-learn, entre otros, así como también paquetes de visualización como Matplotlib, lo que me failitó la preparación y el entendiemiento de gráficas. También obtuve experiencie con sistemas operativos como MacOS, Linux, y Windows. Finalmente pero no menos importante, aprendí a presentar mis resultados en diversas conferencias tanto a nivel nacional como internacional, en inglés y en español y para audiencias de diveras disciplinas científicas.   
