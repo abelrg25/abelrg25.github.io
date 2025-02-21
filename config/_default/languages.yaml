@@ -10,7 +10,7 @@ en:
   menu:
     main:
       - name: Experience
-        url: 'en/#experience'
+        url: '/#experience'
         weight: 1
 
 # Uncomment the lines below to configure your website in a second language.
@@ -20,5 +20,5 @@ es:
   menu:
     main:
       - name: Experiencia
-        url: 'es/#experience'
+        url: '/#experiencia'
         weight: 1
