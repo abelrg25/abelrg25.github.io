@@ -17,8 +17,8 @@ en:
 es:
   languageCode: es
   contentDir: content/es
-  menu:
-    main:
-      - name: Experiencia
-        url: '/es/#experiencia'
-        weight: 1
+#  menu:
+ #   main:
+ #     - name: Experiencia
+  #      url: '/es/#experiencia'
+   #     weight: 1
