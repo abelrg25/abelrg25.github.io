@@ -1,5 +1,5 @@
 ---
-title: 'Experiencia'
+title: 'Texto aqui'
 date: 2024-05-19
 type: landing
 
