@@ -1,6 +1,6 @@
 ---
 title: 'Experiencia'
-date: 2023-10-24
+date: 2024-05-19
 type: landing
 
 design:
@@ -32,4 +32,6 @@ sections:
     content:
       title: Idiomas
       username: admin
+      design:
+        show_skill_percentage: false
 ---
