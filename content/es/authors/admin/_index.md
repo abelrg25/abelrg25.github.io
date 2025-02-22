@@ -87,8 +87,10 @@ work:
     summary: |2-
       Responsabilidades:
       - Proveer sesiones de tutoría personalizadas en matemáticas y física a estudiantes de preparatoria.
-      - Ayudar a los estudiantes a entender conceptos complejos, mejorar calificaciones y crear confianza en sus actividades académicas.
-      - Adapté las lecciones a las necesidades individuales de cada estudiante, ajustando los enfoques según distintos estilos de aprendizaje y niveles de conocimiento.
+      - Ayudar a los estudiantes a entender conceptos complejos, mejorar calificaciones y crear confianza en sus
+      actividades académicas.
+      - Adapté las lecciones a las necesidades individuales de cada estudiante, ajustando los enfoques según distintos
+       estilos de aprendizaje y niveles de conocimiento.
       - Desarrollé lecciones atractivas, ejercicios de práctica y estrategias para la resolución de problemas.
 
 
