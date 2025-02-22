@@ -55,9 +55,13 @@ education:
     date_end: 2024-06-10
     summary: |
       <div align="justify"> Durante mi doctorado me dediqué al estudio de estrellas evolucionadas conocidas como estrellas AGB (por sus siglas en inglés Asymptotic Giant Branch stars) utilizando técnicas de alta resolución angular. El objetivo de mi trabajo doctoral era tratar de responder de la mejor manera las siguientes preguntas: 
+      
       1.¿Qué mecanismos dan lugar a la pérdida de masa y a la formación de estructuras asimétricas de gas y polvo en estrellas AGB? 
+      
       2. ¿Qué tan importante es la composición química del gas y polvo circundante a las estrellas para la formación de vientos? 
+      
       3. ¿Cómo funciona la convección en estrellas diferentes al Sol?
+      
       Al día de hoy, estas son preguntas que no tienen una respuesta concreta. Aunque las estrellas AGB son de las principales contribuyentes al enriquecimiento del medio interestelar, la manera en la que el material procesado durante la evolución de la estrella es devuelto al medio interestelar es un fenómeno que no se encuentra caracterizado completamente. 
       Para abordar estas preguntas obtuve, reduje y limpié datos de la base de datos de uno de los observatorios más importantes del mundo, el VLTI (por sus siglas en inglés Very Large Telescope Interferometer ). Además puse en práctica el uso de métodos Monte Carlo, modelado matemático, visualización y manipulación de imágenes. La capacidad de abstracción, aunada a un pensamiento analítico y crítico, fueron de gran importancia para entender los resultados que mis colaboradores y yo obtuvimos y para poder publicar en revistas de alto impacto y así contribuir al avance de la ciencia.  </div>
     #button:
