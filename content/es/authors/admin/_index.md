@@ -109,7 +109,7 @@ skills:
         description: ''
         percent: 80
         icon: r-project
-        icon_pack: fas
+        icon_pack: fab
       - name: SQL
         description: ''
         percent: 80
@@ -118,32 +118,32 @@ skills:
         description: ''
         percent: 80
         icon: chart-bar
-        icon_pack: fas
+        icon_pack: fab
       - name : Visualización de datos
         description: ''
         percent: 80
         icon: chart-pie
-        icon_pack: fas
+        icon_pack: fab
       - name : Hojas de cálculo
         description: ''
         percent: 80
         icon: file-excel
-        icon_pack: fas
+        icon_pack: fab
       - name : Tablas dinámicas
         description: ''
         percent: 80
         icon: table
-        icon_pack: fas
+        icon_pack: fab
       - name : Procesamiento de imágenes
         description: ''
         percent: 80
         icon: image
-        icon_pack: fas
+        icon_pack: fab
       - name : Tableau
         description: ''
         percent: 80
         icon: chart-area
-        icon_pack: fas
+        icon_pack: fab
   - name: Pasatiempos
     color: '#eeac02'
     color_border: '#f0bf23'
