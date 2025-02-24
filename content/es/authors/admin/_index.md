@@ -139,12 +139,12 @@ skills:
         percent: 80
         icon: image
         icon_pack: fas
-#      - name : Tableau
-#        description: ''
-#        percent: 80
-#        icon: chart-area
-#        icon_pack: fas
-- name: Pasatiempos
+      - name : Tableau
+        description: ''
+        percent: 80
+        icon: chart-area
+        icon_pack: fas
+  - name: Pasatiempos
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
