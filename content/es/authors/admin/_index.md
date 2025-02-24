@@ -105,10 +105,11 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Análisis de datos
+      - name: R
         description: ''
         percent: 80
-        icon: chart-bar
+        icon: r-project
+        icon_pack: fas
       - name: SQL
         description: ''
         percent: 80
@@ -118,7 +119,32 @@ skills:
         percent: 80
         icon: chart-bar
         icon_pack: fas
-  - name: Pasatiempos
+      - name : Visualización de datos
+        description: ''
+        percent: 80
+        icon: chart-pie
+        icon_pack: fas
+      - name : Hojas de cálculo
+        description: ''
+        percent: 80
+        icon: file-excel
+        icon_pack: fas
+      - name : Tablas dinámicas
+        description: ''
+        percent: 80
+        icon: table
+        icon_pack: fas
+      - name : Procesamiento de imágenes
+        description: ''
+        percent: 80
+        icon: image
+        icon_pack: fas
+      - name : Tableau
+        description: ''
+        percent: 80
+        icon: chart-area
+        icon_pack: fas
+- name: Pasatiempos
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
