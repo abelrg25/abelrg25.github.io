@@ -54,7 +54,7 @@ education:
     date_start: 2020-01-01
     date_end: 2024-06-10
     summary: |
-      <div align="justify"> Título: __Study of the Stellar Physics through infrared interferometric imaging__ Durante mi doctorado me dediqué al estudio de estrellas evolucionadas conocidas como estrellas AGB (por sus siglas en inglés Asymptotic Giant Branch stars) utilizando técnicas de alta resolución angular. El objetivo de mi trabajo doctoral era tratar de responder de la mejor manera las siguientes preguntas: 
+      <div align="justify"> Título: **Study of the Stellar Physics through infrared interferometric imaging** Durante mi doctorado me dediqué al estudio de estrellas evolucionadas conocidas como estrellas AGB (por sus siglas en inglés Asymptotic Giant Branch stars) utilizando técnicas de alta resolución angular. El objetivo de mi trabajo doctoral era tratar de responder de la mejor manera las siguientes preguntas: 
       
       1.¿Qué mecanismos dan lugar a la pérdida de masa y a la formación de estructuras asimétricas de gas y polvo en estrellas AGB? 
       
@@ -66,18 +66,18 @@ education:
       Para abordar estas preguntas obtuve, reduje y limpié datos de la base de datos de uno de los observatorios más importantes del mundo, el VLTI (por sus siglas en inglés Very Large Telescope Interferometer). Además puse en práctica el uso de métodos Monte Carlo, modelado matemático, visualización y manipulación de imágenes. La capacidad de abstracción, aunada a un pensamiento analítico y crítico, fueron de gran importancia para entender los resultados que mis colaboradores y yo obtuvimos y para poder publicar en revistas de alto impacto y así contribuir al avance de la ciencia.  </div>
     button:
       text: 'Lee mi tesis'
-      url: 'https://tesiunam.dgb.unam.mx/F/XAQQ6A3JGCF2E7T2ISD7VU8BIJEJUIHU42REGY3D5M23XXRL8A-45590?func=full-set-set&set_number=036413&set_entry=000002&format=999'
+      url: 'http://132.248.9.195/ptd2024/abr_jun/0853367/Index.html'
   
   - area: Maestro en Ciencias (Astrofísica)
     institution: Instituto de Astronomía, Universidad Nacional Autónoma de México
     date_start: 2017-08-01
     date_end: 2019-07-22
     summary: | 
-      <div align="justify"> Título: __Optimización de los Algoritmos de HAWC para la búsqueda de GRBs asociados a ondas gravitacionales__
+      <div align="justify"> Título: **Optimización de los Algoritmos de HAWC para la búsqueda de GRBs asociados a ondas gravitacionales**
       Resumen: Localizado en las faldas del volcán Sierra Negra, en Puebla, se encuentra el observatorio HAWC (por sus siglas en inglés High Altitude Water Cherenkov) encargado de detectar partículas muy energéticas (como rayos cósmicos y rayos gamma con energías entre 100 GeV y 100 TeV) provenientes de los eventos más energéticos del Universo. Debido a factores como el campo magnético tanto de la Tierra como de diversos objetos astrofísicos, se sabe que los rayos cósmicos y los rayos gamma que detecta el observatorio HAWC provienen de lugares diferentes. Es por ello que es muy importante saber diferenciar cuando se detectan rayos cósmicos o cuando se detectan rayos gamma. A muy altas energías, cerca de los 100 TeV, el observatorio funciona muy bien y es capaz de diferenciar entre ambos eventos. Sin embargo, cuanto más cercanos son estos eventos al límite inferior, es decir, a 100 GeV, más difícil es diferenciarlos. Considerando esta dificultad, en mi trabajo de tesis de maestría trabajé con datos de eventos de rayos gamma y de rayos cósmicos con energías cercanas a los 100 GeV. Lo que hice fue desarrollar una red neuronal que aprendiera la diferencia entre los eventos considerando diversos parámetros de las simulaciones del observatorio que eran fundamentales para diferenciar entre rayos cósmicos y rayos gamma. Con este trabajo logré mejorar la capacidad del observatorio para diferenciar los eventos mencionados anteriormente. Aunque por cuestiones de tiempo no pudimos publicar estos resultados, realmente pude aprender muchos aspectos sobre cómo funciona una red neuronal, además de la aplicación de técnicas estadísticas como el análisis de componentes principales (ACP o PCA por sus siglas en inglés Principal Component Analysis)</div>
     button: 
       text: 'Lee mi tesis'
-      url: 'https://tesiunam.dgb.unam.mx/F/XAQQ6A3JGCF2E7T2ISD7VU8BIJEJUIHU42REGY3D5M23XXRL8A-45602?func=full-set-set&set_number=036413&set_entry=000006&format=999'
+      url: 'http://132.248.9.195/ptd2019/mayo/0789307/Index.html'
   - area: Físico
     institution: Facultad de Ciencias, Universidad Nacional Autónoma de México
     date_start: 2010-08-01
