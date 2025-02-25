@@ -146,7 +146,6 @@ skills:
         description: ''
         percent: 80
         icon: custom/tableau2
-
   - name: Sistemas Operativos
     items: 
       - name: Windows
@@ -161,7 +160,6 @@ skills:
         description: ''
         percent: 80
         icon: custom/apple-brands-solid
-
   - name: Pasatiempos
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -179,7 +177,14 @@ skills:
         description: ''
         percent: 80
         icon: custom/gamepad-solid
-
+      - name: Películas y Series 
+        description: ''
+        percent: 80
+        icon: custom/film-solid
+      - name: Viajar
+        description: ''
+        percent: 80
+        icon: custom/plane-solid
 
 languages:
   - name: Español (Nativo)
