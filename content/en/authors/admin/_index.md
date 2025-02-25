@@ -146,7 +146,7 @@ skills:
       - name : Tableau
         description: ''
         percent: 80
-        icon: custom/tableau
+        icon: custom/tableau2
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -154,7 +154,8 @@ skills:
       - name: Reading
         description: ''
         percent: 100
-        icon: obp
+        icon: book-open
+        icon_pack: fas
       - name: Photography
         description: ''
         percent: 80

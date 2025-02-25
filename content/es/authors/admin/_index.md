@@ -108,6 +108,7 @@ work:
 skills:
   - name: Habilidades técnicas
     items:
+    items:
       - name: Python
         description: ''
         percent: 80
@@ -116,8 +117,7 @@ skills:
       - name: R
         description: ''
         percent: 80
-        icon: r-project
-        icon_pack: far
+        icon: custom/r-project-brands-solid
       - name: SQL
         description: ''
         percent: 80
@@ -127,31 +127,26 @@ skills:
         percent: 80
         icon: chart-bar
         icon_pack: far
-      - name : Visualización de datos
+      - name : Visualización de Datos 
         description: ''
         percent: 80
-        icon: chart-pie
-        icon_pack: fab
-      - name : Hojas de cálculo
+        icon: custom/chart-line-solid
+      - name : Hojas de Cálculo
         description: ''
         percent: 80
-        icon: file-excel
-        icon_pack: far
-      - name : Tablas dinámicas
+        icon: custom/file-excel-solid
+      - name : Tablas Dinámicas
         description: ''
         percent: 80
-        icon: table
-        icon_pack: far
-      - name : Procesamiento de imágenes
+        icon: custom/table-solid
+      - name : Procesamiento de Imágenes
         description: ''
         percent: 80
-        icon: image
-        icon_pack: far
+        icon: custom/image-solid
       - name : Tableau
         description: ''
         percent: 80
-        icon: chart-area
-        icon_pack: far
+        icon: custom/tableau2
   - name: Pasatiempos
     color: '#eeac02'
     color_border: '#f0bf23'
