@@ -1,5 +1,5 @@
 ---
-title: 📊 Estoy orgulloso de anunciar que por fin terminé mi certificación como analista de datos de Google a través de la plataforma de Coursera
+title: 📊 I am proud to announce that I have finally completed my Google Data Analytics certification through Coursera platform.
 summary: 
 date: 2025-02-18
 
@@ -19,5 +19,3 @@ tags:
   - Spreadsheets
   - Statistics
 ---
-
-

@@ -236,5 +236,4 @@ awards:
 ---
 
 ## About Me
-THIS PAGE IS UNDER CONSTRUCTION
-Hello! My name is Abel Rosales and I am a Ph. D. in Astrophysics. My research interests include the study of evolved stars, also called AGB stars (AGB stands fo Asymptotic Giant Branc) through interferometric imaging. I also love programming, so, I love the Data Analysis and Data Science fields.
+Hello! My name is Abel and I am a Ph. D. in Astrophysics. My research interests include the study of evolved stars, also called AGB stars (AGB stands fo Asymptotic Giant Branc) through interferometric imaging. I also love programming, so, I love the Data Analysis and Data Science fields.
