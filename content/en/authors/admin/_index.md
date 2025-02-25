@@ -121,16 +121,16 @@ skills:
       - name: SQL
         description: ''
         percent: 80
-        icon: circle-stack
+        icon: custom/database-solid
       - name : Statistics
         description: ''
         percent: 80
-        icon: chart-bar
+        icon: custom/chart-line-solid
         icon_pack: far
       - name : Data visualization
         description: ''
         percent: 80
-        icon: custom/chart-line-solid
+        icon: custom/chart-simple-solid
       - name : Spreadsheets
         description: ''
         percent: 80
@@ -170,8 +170,7 @@ skills:
       - name: Reading 
         description: ''
         percent: 100
-        icon: book-open
-        icon_pack: fas
+        icon: custom/book-open-solid
       - name: Listening to Music
         description: ''
         percent: 80
