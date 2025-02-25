@@ -188,8 +188,8 @@ skills:
 languages:
   - name: Español (Nativo)
     percent: 100 
-  - name: Inglés - B2
-    percent: ''
+  - name: Inglés 
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -209,7 +209,8 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of Data Science with python. By the end of the course, I was familiar with data manipulation and cleaning techniques using the python pandas data science library. I also learned about Series and DataFrames as the central data structures for data analysis. Furthermore, I also learned how to run basic inferential statistical analyses.      
+      En este curso aprendí diversos conceptos de Ciencia de datos con Python. AL finalizar el curso ya tenía familiaridad con técnicas de limpieza y de manipulación de datos utilizando la herramienta de Python conocida como pandas. También aprendí sobre Series y marcos de datos (dataframes) que son dos de las estructuras principales para el análisis de datos. Finalmente, aprendí como ejecutar diversos análisis estadísticos. 
+      
 ---
 
 ## Acerca de mi

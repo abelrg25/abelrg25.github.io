@@ -191,8 +191,8 @@ skills:
 languages:
   - name: Spanish (Native)
     percent: 100 
-  - name: English - B2
-    percent: ''
+  - name: English 
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
