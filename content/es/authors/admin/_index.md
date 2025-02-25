@@ -89,6 +89,17 @@ education:
       GPA: 3.4/4.0
       
 work:
+  - position: Operador de Telescopio electrónico
+    company name: Astrofísicos en Acción
+    company url: ''
+    company logo: ''
+    date_start: 2023-12-01
+    date_end: 2024-11-01
+    summary: |2-
+      Responsabilidades:
+      - Operar un telescopio electrónico, apuntar a objetos en la bóveda celeste y brindar explicaciones de los objetos observados a los asistentes.
+      - Responder preguntas relevantes del campo de la Astronomía general. 
+      - Preparar clases y Talleres relacionados con Astronomía para público en general.        
   - position: Tutor de física y matemáticas para estudiantes de preparatoria
     company_name: Independiente
     company_url: ''

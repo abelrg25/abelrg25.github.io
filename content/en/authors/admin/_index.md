@@ -90,6 +90,17 @@ education:
       GPA: 3.4/4.0
       
 work:
+  - position: Electronic Telescope Operator 
+    company name: Astrofísicos en Acción
+    company url: ''
+    company logo: ''
+    date_start: 2023-12-01
+    date_end: 2024-11-01
+    summary: |2-
+      Responsibilities include:
+      - Operate an electronic telescope, aim at celestial objects, and provide explanations about the observed objects to attendees.
+      - Answer relevant questions in the field of general astronomy for the general public.
+      - Prepare classes and workshops on astronomy for the general public.
   - position: Math and Physics Tutor for High School Students
     company_name: Independent
     company_url: ''
