@@ -179,14 +179,7 @@ skills:
         description: ''
         percent: 80
         icon: custom/gamepad-solid
-      - name: Películas y Series
-        description: ''
-        percent: 80
-        icon: custom/film-solid
-      - name: Viajar
-        description: ''
-        percent: 80
-        icon: custom/plane-solid
+
 
 languages:
   - name: Español (Nativo)
