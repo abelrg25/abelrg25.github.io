@@ -155,7 +155,7 @@ skills:
       - name: Linux
         description: ''
         percent: 80
-        icon: custom/linux-brands-solid
+        icon: custom/linux-brands-sol
       - name: MacOS
         description: ''
         percent: 80
@@ -185,13 +185,6 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Google Data Analytics Certificate
-    url: https://www.coursera.org/professional-certificates/google-data-analytics
-    date: '2025-02-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      A través de esta experiencia, adquirí un conocimiento profundo sobre las prácticas y procesos utilizados por los analistas de datos junior y asociados en su trabajo diario. Desarrollé habilidades clave en análisis de datos, incluyendo limpieza, análisis y visualización, utilizando herramientas esenciales como hojas de cálculo, SQL, R y Tableau. Aprendí a limpiar y organizar datos para su análisis, realizar cálculos mediante hojas de cálculo, SQL y R, y presentar hallazgos de manera efectiva a través de dashboards, presentaciones y plataformas de visualización comúnmente utilizadas.
   - title: Introduction to Data Science in Python
     url: https://www.coursera.org/programs/mooc-unam-en-coursera-para-ti-uzeau/learn/python-data-analysis
     date: '2024-08-01'
@@ -199,7 +192,25 @@ awards:
     icon: coursera
     summary: |
       I studied the foundational concept of Data Science with python. By the end of the course, I was familiar with data manipulation and cleaning techniques using the python pandas data science library. I also learned about Series and DataFrames as the central data structures for data analysis. Furthermore, I also learned how to run basic inferential statistical analyses.      
-
+  - title: Blockchain Fundamentals
+    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date: '2023-07-01'
+    awarder: edX
+    icon: edx
+    summary: |
+      Learned:
+      - Synthesize your own blockchain solutions
+      - Gain an in-depth understanding of the specific mechanics of Bitcoin
+      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+  - title: 'Object-Oriented Programming in R'
+    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    certificate_url: https://www.datacamp.com
+    date: '2023-01-21'
+    awarder: datacamp
+    icon: datacamp
+    summary: |
+      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+---
 
 ## Acerca de mi
 Página en construcción
