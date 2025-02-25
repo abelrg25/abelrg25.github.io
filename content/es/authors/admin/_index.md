@@ -108,7 +108,6 @@ work:
 skills:
   - name: Habilidades técnicas
     items:
-    items:
       - name: Python
         description: ''
         percent: 80
@@ -147,6 +146,20 @@ skills:
         description: ''
         percent: 80
         icon: custom/tableau2
+  - name: Sistemas Operativos
+    items: 
+      - name: Windows
+        description: ''
+        percent: 80
+        icon: custom/windows-brands-solid
+      - name: Linux
+        description: ''
+        percent: 80
+        icon: custom/linux-brands-solid
+      - name: MacOS
+        description: ''
+        percent: 80
+        icon: custom/apple-brands-solid
   - name: Pasatiempos
     color: '#eeac02'
     color_border: '#f0bf23'
