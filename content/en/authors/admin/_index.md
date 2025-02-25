@@ -53,8 +53,11 @@ education:
     institution: Instituto de Astronomía, Universidad Nacional Autónoma de México
     date_start: 2020-01-01
     date_end: 2024-06-10
-    summary: |
-      During my Ph.D., I focused on the study of evolved stars known as AGBs (Asymptotic Giant Branch) using high-angular-resolution techniques. The objective of my doctoral research was to address the following questions as thoroughly as possible:
+    summary: | 
+      Thesis title:  Study of the Stellar Physics through infrared interferometric imaging
+
+      
+      <div align="justify"> During my Ph.D., I focused on the study of evolved stars known as AGBs (Asymptotic Giant Branch) using high-angular-resolution techniques. The objective of my doctoral research was to address the following questions as thoroughly as possible:
       1. What mechanisms drive mass loss and the formation of asymmetric gas and dust structures in AGB stars?
       2. How important is the chemical composition of the gas and dust surrounding these stars for wind formation? How does convection operate in stars other than the Sun?
       To this day, these questions remain unresolved. Although AGB stars are among the main contributors to the enrichment of the interstellar medium, the process by which processed material is returned to the interstellar medium remains poorly characterized.
@@ -62,14 +65,23 @@ education:
       To tackle these questions, I obtained, reduced, and cleaned data from one of the world’s most important observatories, the VLTI. Additionally, I applied Monte Carlo methods, mathematical modeling, image visualization, and manipulation techniques. 
       Abstract thinking, combined with analytical and critical reasoning, played a crucial role in interpreting the results obtained by my collaborators and me. This work led to publications in high-impact journals, contributing to scientific progress. 
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'Read my Thesis'
+      url: 'http://132.248.9.195/ptd2024/abr_jun/0853367/Index.html'
   - area: M. Sc. in Astrophysics
     institution: Instituto de Astronomía, Universidad Nacional Autónoma de México
     date_start: 2017-08-01
     date_end: 2019-07-22
-    summary: |
+    summary: | 
+        Thesis title: Optimización de los algoritmos de HAWC para la búsqueda de GRBs asociados a ondas gravitacionales (thesis in Spanish)
 
+        <div align="justify"> Located on the slopes of the Sierra Negra volcano in Puebla, the HAWC observatory (High Altitude Water Cherenkov) detects highly energetic particles, such as cosmic rays and gamma rays ranging from 100 GeV to 100 TeV, originating from the Universe’s most energetic events. Due to Earth's magnetic field and those of astrophysical objects, these particles come from different sources, making it crucial to distinguish between them.
+
+        At very high energies (~100 TeV), HAWC efficiently differentiates these events. However, as energy approaches 100 GeV, this becomes increasingly challenging. My master’s thesis focused on developing a neural network to improve event classification at lower energies. Using key parameters from observatory simulations, the network learned to distinguish between cosmic and gamma-ray events, enhancing HAWC’s classification capabilities.
+
+        Although time constraints prevented publication, this work deepened my understanding of neural networks and statistical techniques such as Principal Component Analysis (PCA). </div>
+    button: 
+      text: 'Read my Thesis'
+      url: 'http://132.248.9.195/ptd2019/mayo/0789307/Index.html'
   - area: B.Sc. in Physics
     institution: Facultad de Ciencias, Universidad Nacional Autónoma de México
     date_start: 2010-08-01
@@ -100,19 +112,47 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Analysis
+        icon: python
+        icon_pack: fab
+      - name: R
         description: ''
         percent: 80
-        icon: chart-bar
+        icon: fa-r-project
+        icon_pack: fab
       - name: SQL
         description: ''
         percent: 80
         icon: circle-stack
-      - name : Statistics
+      - name : Estadística
         description: ''
         percent: 80
-        icon: 🧮
+        icon: chart-bar
+        icon_pack: far
+      - name : Visualización de datos
+        description: ''
+        percent: 80
+        icon: chart-pie
+        icon_pack: fab
+      - name : Hojas de cálculo
+        description: ''
+        percent: 80
+        icon: fa-file-excel
+        icon_pack: far
+      - name : Tablas dinámicas
+        description: ''
+        percent: 80
+        icon: fa-table
+        icon_pack: fas
+      - name : Procesamiento de imágenes
+        description: ''
+        percent: 80
+        icon: fa-image
+        icon_pack: far
+      - name : Tableau
+        description: ''
+        percent: 80
+        icon: fa-chart-area
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
