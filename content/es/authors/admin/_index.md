@@ -164,27 +164,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Leer 
+      - name: Leer
         description: ''
         percent: 100
         icon: book-open
         icon_pack: fas
-      - name: Escuchar Música
+      - name: Photography
         description: ''
         percent: 80
-        icon: custom/music-solid
-      - name: Videojuegos
-        description: ''
-        percent: 80
-        icon: custom/gamepad-solid
-      - name: Películas y Series 
-        description: ''
-        percent: 80
-        icon: custom/film-solid
-      - name: Viajar
-        description: ''
-        percent: 80
-        icon: custom/plane-solid
+        icon: camera
 
 languages:
   - name: Español (Nativo)
@@ -203,7 +191,7 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      A través de esta experiencia, adquirí un conocimiento profundo sobre las prácticas y procesos utilizados por los analistas de datos en su trabajo diario. Desarrollé habilidades clave en análisis de datos, incluyendo limpieza, análisis y visualización, utilizando herramientas esenciales como hojas de cálculo, SQL, R y Tableau. Aprendí a limpiar y organizar datos para su análisis, realizar cálculos mediante hojas de cálculo, SQL y R, y presentar hallazgos de manera efectiva a través de dashboards, presentaciones y plataformas de visualización comúnmente utilizadas.
+      A través de esta experiencia, adquirí un conocimiento profundo sobre las prácticas y procesos utilizados por los analistas de datos junior y asociados en su trabajo diario. Desarrollé habilidades clave en análisis de datos, incluyendo limpieza, análisis y visualización, utilizando herramientas esenciales como hojas de cálculo, SQL, R y Tableau. Aprendí a limpiar y organizar datos para su análisis, realizar cálculos mediante hojas de cálculo, SQL y R, y presentar hallazgos de manera efectiva a través de dashboards, presentaciones y plataformas de visualización comúnmente utilizadas.
   - title: Introduction to Data Science in Python
     url: https://www.coursera.org/programs/mooc-unam-en-coursera-para-ti-uzeau/learn/python-data-analysis
     date: '2024-08-01'
