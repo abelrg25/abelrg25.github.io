@@ -161,7 +161,7 @@ skills:
         description: ''
         percent: 80
         icon: custom/apple-brands-solid
-        
+
   - name: Pasatiempos
     color: '#eeac02'
     color_border: '#f0bf23'
