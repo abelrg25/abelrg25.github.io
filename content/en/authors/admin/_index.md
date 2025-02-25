@@ -117,42 +117,36 @@ skills:
       - name: R
         description: ''
         percent: 80
-        icon: fa-r-project
-        icon_pack: fab
+        icon: custom/r-project-brands-solid
       - name: SQL
         description: ''
         percent: 80
         icon: circle-stack
-      - name : Estadística
+      - name : Statistics
         description: ''
         percent: 80
         icon: chart-bar
         icon_pack: far
-      - name : Visualización de datos
+      - name : Data visualization
         description: ''
         percent: 80
-        icon: chart-pie
-        icon_pack: fab
-      - name : Hojas de cálculo
+        icon: custom/chart-line-solid
+      - name : Spreadsheets
         description: ''
         percent: 80
-        icon: fa-file-excel
-        icon_pack: far
-      - name : Tablas dinámicas
+        icon: custom/file-excel-solid
+      - name : Pivot tables
         description: ''
         percent: 80
-        icon: fa-table
-        icon_pack: fas
-      - name : Procesamiento de imágenes
+        icon: custom/table-solid
+      - name : Image processing
         description: ''
         percent: 80
-        icon: fa-image
-        icon_pack: far
+        icon: custom/image-solid
       - name : Tableau
         description: ''
         percent: 80
-        icon: fa-chart-area
-        icon_pack: fas
+        icon: custom/tableau
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
