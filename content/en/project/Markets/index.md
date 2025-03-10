@@ -1,5 +1,5 @@
 ---
-title: Recomendación de un perfil de aplicación 
+title: App profile recommendation
 date: 2023-10-26
 external_link: https://www.kaggle.com/code/abelr27/analysis-project-apps
 tags:
