@@ -99,7 +99,31 @@ work:
       Responsabilidades:
       - Operar un telescopio electrónico, apuntar a objetos en la bóveda celeste y brindar explicaciones de los objetos observados a los asistentes.
       - Responder preguntas relevantes del campo de la Astronomía general. 
-      - Preparar clases y Talleres relacionados con Astronomía para público en general.        
+      - Preparar clases y Talleres relacionados con Astronomía para público en general.
+  - position: Investigador Junior 
+    company name: UNAM
+    company url: ''
+    company logo: ''
+    date_start: 2020-01-01
+    date_end: 2024-06-01
+    summary: |2-
+      Proyecto: Análisis de Datos y Modelado para Sistemas Complejos (2023-2024)
+        - Lideré un proyecto de investigación basado en datos que resultó en una publicación revisada por pares, disponible en este [ENLACE](https://doi.org/10.1051/0004-6361/202349112) y también en la sección de [Artículos](/#papers).
+        - Recopilé, limpié y analicé grandes conjuntos de datos provenientes de instrumentos científicos, garantizando su precisión y fiabilidad.
+        - Utilicé Python (pandas, numpy, scipy, matplotlib) para procesar datos, identificar patrones y generar información relevante.
+        - Apliqué técnicas estadísticas avanzadas, como simulaciones de Monte Carlo, para evaluar tendencias y tomar decisiones basadas en datos.
+        - Desarrollé modelos matemáticos para explicar comportamientos observados y predecir resultados futuros.
+        - Creé visualizaciones claras para comunicar hallazgos de manera efectiva.
+        - Presenté resultados en conferencias internacionales y colaboré con expertos de diversas disciplinas.
+        
+        Proyecto: Automatización y Optimización del Procesamiento de Datos (2020-2023)
+        - Lideré un proyecto de investigación basado en datos que resultó en una publicación revisada por pares, disponible en este [ENLACE](https://doi.org/10.1051/0004-6361/202349112) y también en la sección de [Artículos](/#papers).
+        - Diseñé e implementé un sistema automatizado para procesar y analizar grandes volúmenes de datos de manera eficiente.
+        - Desarrollé scripts en Python para optimizar tareas repetitivas, mejorando la velocidad y precisión del procesamiento de datos.
+        - Utilicé herramientas de visualización de datos para presentar información compleja de forma intuitiva.
+        - Aseguré la calidad y consistencia de los datos mediante la aplicación de métodos rigurosos de validación.
+        - Documenté procesos para facilitar la transferencia de conocimiento y la reproducibilidad del análisis.
+        - Trabajé en equipos multidisciplinarios, integrando perspectivas de diferentes áreas para enriquecer el análisis de datos.
   - position: Tutor de física y matemáticas para estudiantes de preparatoria
     company_name: Independiente
     company_url: ''
