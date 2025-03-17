@@ -225,5 +225,4 @@ awards:
 ---
 
 ## Acerca de mi
-Página en construcción
-¡Hola! Me llamo Abel y soy Dr. en Astrofísica por la UNAM. Dentro de mis intereses científicos se encuentra el estudio de estrellas evolucionadas conocidas como estrellas AGB (por sus siglás en inglés Asymptotic Giant Branch stars) con técnicas de alta resolución angular y reconstrucción de imágenes. Me gusta mucho programar y analizar lo que los datos esconden una vez que los desciframos. Por ello me dediqué a la investigación. 
+¡Hola! Me llamo Abel y soy Dr. en Astrofísica por la UNAM. Dentro de mis intereses científicos se encuentra el estudio de estrellas evolucionadas conocidas como estrellas AGB (por sus siglás en inglés Asymptotic Giant Branch stars) con técnicas de alta resolución angular y reconstrucción de imágenes. Me gusta mucho programar y soy un apasionado por convertir datos en información valiosa. Tengo más de 4 años trabajando en la extracción, limpieza y visualización de datos de grandes (y no tan grandes) bases de datos.
