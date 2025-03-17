@@ -105,8 +105,8 @@ work:
     company name: UNAM
     company url: ''
     company logo: ''
-    date_start: 2020-
-    date_end: 2024-
+    date_start: 2020-01-01
+    date_end: 2024-06-01
     summary: |2-
       Activities: 
       Project: Data Analysis and Modeling for Complex Systems (2023-2024)
