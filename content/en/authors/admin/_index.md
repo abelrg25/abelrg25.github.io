@@ -101,6 +101,29 @@ work:
       - Operate an electronic telescope, aim at celestial objects, and provide explanations about the observed objects to attendees.
       - Answer relevant questions in the field of general astronomy for the general public.
       - Prepare classes and workshops on astronomy for the general public.
+  - position: Early Career Researcher
+    company name: UNAM
+    company url: ''
+    company logo: ''
+    date_start: 2020-
+    date_end: 2024-
+    summary: |2-
+      Activities: 
+      Project: Data Analysis and Modeling for Complex Systems (2023-2024)
+        - Led a data-driven research project that resulted in a peer-reviewed publication [LINK](DOI: 10.1051/0004-6361/202349112).
+        - Collected, cleaned, and analyzed large datasets from scientific instruments, ensuring accuracy and reliability.
+        - Used Python (pandas, numpy, scipy, matplotlib) to process data, identify patterns, and generate insights.
+        - Applied advanced statistical techniques, such as Monte Carlo simulations, to evaluate trends and make data-driven decisions.
+        - Developed mathematical models to explain observed behaviors and predict future outcomes.
+        - Created clear visualizations to communicate findings effectively.
+        - Presented results at international conferences and collaborated with experts from different fields.
+      Project: Automation and Optimization of Data Processing (2020-2023) [LINK](DOI: 10.1051/0004-6361/202245370)
+        - Designed and implemented an automated system to process and analyze large volumes of data efficiently.
+        - Developed Python scripts to streamline repetitive tasks, improving data processing speed and accuracy.
+        - Used data visualization tools to present complex information in an intuitive way.
+        - Ensured data quality and consistency by applying rigorous validation methods.
+        - Documented processes to facilitate knowledge transfer and reproducibility.
+        - Worked collaboratively with multidisciplinary teams, integrating insights from different perspectives.
   - position: Math and Physics Tutor for High School Students
     company_name: Independent
     company_url: ''
