@@ -117,7 +117,7 @@ work:
         - Presenté resultados en conferencias internacionales y colaboré con expertos de diversas disciplinas.
         
         Proyecto: Automatización y Optimización del Procesamiento de Datos (2020-2023)
-        - Lideré un proyecto de investigación basado en datos que resultó en una publicación revisada por pares, disponible en este [ENLACE](https://doi.org/10.1051/0004-6361/202349112) y también en la sección de Artículos.
+        - Lideré un proyecto de investigación basado en datos que resultó en una publicación revisada por pares, disponible en este [ENLACE](https://doi.org/10.1051/0004-6361/202245370) y también en la sección de Artículos.
         - Diseñé e implementé un sistema automatizado para procesar y analizar grandes volúmenes de datos de manera eficiente.
         - Desarrollé scripts en Python para optimizar tareas repetitivas, mejorando la velocidad y precisión del procesamiento de datos.
         - Utilicé herramientas de visualización de datos para presentar información compleja de forma intuitiva.
@@ -249,4 +249,4 @@ awards:
 ---
 
 ## Acerca de mi
-¡Hola! Me llamo Abel y soy Dr. en Astrofísica por la UNAM. Dentro de mis intereses científicos se encuentra el estudio de estrellas evolucionadas conocidas como estrellas AGB (por sus siglás en inglés Asymptotic Giant Branch stars) con técnicas de alta resolución angular y reconstrucción de imágenes. Me gusta mucho programar y soy un apasionado por convertir datos en información valiosa. Tengo más de 4 años trabajando en la extracción, limpieza y visualización de datos de grandes (y no tan grandes) bases de datos.
+¡Hola! Me llamo Abel y soy Dr. en Astrofísica por la UNAM. Dentro de mis intereses científicos se encuentra el estudio de estrellas evolucionadas conocidas como estrellas AGB (por sus siglás en inglés Asymptotic Giant Branch stars) con técnicas de alta resolución angular y reconstrucción de imágenes. Me gusta mucho programar y soy un apasionado por convertir datos en información valiosa. Tengo más de 4 años trabajando en la extracción, limpieza y análisis de datos de grandes (y no tan grandes) bases de datos.
