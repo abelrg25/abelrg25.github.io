@@ -109,7 +109,7 @@ work:
     date_end: 2024-06-01
     summary: |2-
       Project: Data Analysis and Modeling for Complex Systems (2023-2024)
-        - Led a data-driven research project that resulted in a peer-reviewed publication available here: https://doi.org/10.1051/0004-6361/202349112
+        - Led a data-driven research project that resulted in a peer-reviewed publication available in this [LINK](https://doi.org/10.1051/0004-6361/202349112)
         - Collected, cleaned, and analyzed large datasets from scientific instruments, ensuring accuracy and reliability.
         - Used Python (pandas, numpy, scipy, matplotlib) to process data, identify patterns, and generate insights.
         - Applied advanced statistical techniques, such as Monte Carlo simulations, to evaluate trends and make data-driven decisions.
@@ -118,7 +118,7 @@ work:
         - Presented results at international conferences and collaborated with experts from different fields.
       
       Project: Automation and Optimization of Data Processing (2020-2023) 
-        - Led a data-driven research project that resulted in a peer- reviewed publication available here: [LINK](https://doi.org/10.1051/0004-6361/202245370)
+        - Led a data-driven research project that resulted in a peer- reviewed publication available in this [LINK](https://doi.org/10.1051/0004-6361/202245370)
         - Designed and implemented an automated system to process and analyze large volumes of data efficiently.
         - Developed Python scripts to streamline repetitive tasks, improving data processing speed and accuracy.
         - Used data visualization tools to present complex information in an intuitive way.
