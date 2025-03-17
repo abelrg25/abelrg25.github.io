@@ -108,7 +108,7 @@ work:
     date_end: 2024-06-01
     summary: |2-
       Proyecto: Análisis de Datos y Modelado para Sistemas Complejos (2023-2024)
-        - Lideré un proyecto de investigación basado en datos que resultó en una publicación revisada por pares, disponible en este [ENLACE](https://doi.org/10.1051/0004-6361/202349112) y también en la sección de [Artículos](/#papers).
+        - Lideré un proyecto de investigación basado en datos que resultó en una publicación revisada por pares, disponible en este [ENLACE](https://doi.org/10.1051/0004-6361/202349112) y también en la sección de Artículos.
         - Recopilé, limpié y analicé grandes conjuntos de datos provenientes de instrumentos científicos, garantizando su precisión y fiabilidad.
         - Utilicé Python (pandas, numpy, scipy, matplotlib) para procesar datos, identificar patrones y generar información relevante.
         - Apliqué técnicas estadísticas avanzadas, como simulaciones de Monte Carlo, para evaluar tendencias y tomar decisiones basadas en datos.
@@ -117,7 +117,7 @@ work:
         - Presenté resultados en conferencias internacionales y colaboré con expertos de diversas disciplinas.
         
         Proyecto: Automatización y Optimización del Procesamiento de Datos (2020-2023)
-        - Lideré un proyecto de investigación basado en datos que resultó en una publicación revisada por pares, disponible en este [ENLACE](https://doi.org/10.1051/0004-6361/202349112) y también en la sección de [Artículos](/#papers).
+        - Lideré un proyecto de investigación basado en datos que resultó en una publicación revisada por pares, disponible en este [ENLACE](https://doi.org/10.1051/0004-6361/202349112) y también en la sección de Artículos.
         - Diseñé e implementé un sistema automatizado para procesar y analizar grandes volúmenes de datos de manera eficiente.
         - Desarrollé scripts en Python para optimizar tareas repetitivas, mejorando la velocidad y precisión del procesamiento de datos.
         - Utilicé herramientas de visualización de datos para presentar información compleja de forma intuitiva.
