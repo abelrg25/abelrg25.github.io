@@ -36,7 +36,7 @@ sections:
       subtitle: ''
       text: |-
         <div align="justify"> Como investigador Junior en Ciencias, lideré dos proyectos que resultaron en la publicación de dos artículos de investigación en revistas de alto impacto en el mundo. También colaboré con grupos internacionales en diferentes proyectos, lo que también resultó en la publicación de tres artículos de investigación más. Durante este periodo desarrollé diversas habilidades entre las que se enecuentran: el entendimiento de Python y sus diversos paquetes de análisis de datos como Pandas, Numpy, Scipy, Astropy, Scikit-learn, entre otros, así como también paquetes de visualización como Matplotlib, lo que me facilitó la preparación y el entendiemiento de gráficas. También obtuve experiencia con sistemas operativos como MacOS, Linux, y Windows. Finalmente pero no menos importante, aprendí a presentar mis resultados en diversas conferencias tanto a nivel nacional como internacional, en inglés y en español y para audiencias de diveras disciplinas científicas.   
-        Colaboremos juntos! 😃 </div>
+        ¡Colaboremos juntos! 😃 </div>
     design:
       columns: '1'
   - block: collection

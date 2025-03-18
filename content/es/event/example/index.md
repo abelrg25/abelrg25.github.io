@@ -1,28 +1,28 @@
 ---
-title: Example Talk
+title: H, K-band interferometric imaging of the Mira star R Car
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: IAA-CSIC Colloquium
+event_url: ''
 
-location: Hugo Blox Builder HQ
+location: Online
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: ''
+  city: ''
+  region: ''
+  postcode: ''
+  country: España
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Presentation given as part of the IAA-CSIC Colloquium
+abstract: <div align="justify"> The final stage of low to intermediate-mass stars, also known as the asymptotic giant branch (AGB), presents circumstellar envelopes (CSE); However the mechanisms that lead to the formation of these structures, at least in M-type AGBs, are still not well understood. In order to grasp the characteristics of the CSE, it has been found that the CO molecule plays an important role due to its stability against dissociation, making it a tracer of the gas density over a wide radial range. In the present work, we explore K-band interferometric data of the M-type (M5/8) Mira star R Car obtained in 2018 with the Very Large Telescope Interferometer (VLTI) of ESO's Paranal Observatory, using the instrument GRAVITY. The analysis includes; (i) a parametric fit to the interferometric data, and (ii) an image reconstruction of the continuum and of the CO band heads. The results so far show asymmetric and extended structures that might be related to outflows; whether these outflows are originated in the inner or outer parts of the star is still under discussion. The previous results are important in the understanding of the formation of CSE in M-type AGB stars. </div>
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2010-06-01T13:00:00Z'
-date_end: '2010-06-01T15:00:00Z'
+date: '2021-06-08T12:00:00Z'
+date_end: '2021-06-08T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2021-06-08T00:00:00Z'
 
 authors:
   - admin
@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 #links:
@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: ''
 url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_slides: 'https://docs.google.com/presentation/d/e/2PACX-1vT6u_dNAFQf6dr8Y0uiJF0979eRcOI3kaduNw8syBnMDx_ZauSG0hk4BgEvOn8dnQ/pub?start=false&loop=false&delayms=3000'
+url_video: 'https://www.youtube.com/watch?v=VCJasNSoK44'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -62,14 +62,14 @@ projects:
   - projects=["RCar_GRAVITY"]
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+# {{% callout note %}}
+# Click on the **Slides** button above to view the built-in slides feature.
+# {{% /callout %}}
 
-Slides can be added in a few ways:
+# Slides can be added in a few ways:
 
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+# - **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+# - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+# - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+# Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
