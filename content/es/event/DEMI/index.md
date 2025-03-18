@@ -13,7 +13,7 @@ address:
   country: México
 
 summary: Presentación dada como parte del Coloquio del Departamento de Estrellas y Medio Interestelar (DEMI)
-abstract: 'En esta presentación muestro, a manera de resumen, los resultados del primer proyecto que lideré. En el caracterizamos las capas gaseosas más internas de la atmósfera de una estrella evolucionada con diferentes técnicas que incluyen modelado geométrico, reconstrucción de imágenes, el uso de modelos teóricos con métodos Monte Carlo para extraer parámetros físicos.'
+abstract: <div align="justify"> 'En esta presentación muestro, a manera de resumen, los resultados del primer proyecto que lideré. En el caracterizamos las capas gaseosas más internas de la atmósfera de una estrella evolucionada con diferentes técnicas que incluyen modelado geométrico, reconstrucción de imágenes, el uso de modelos teóricos con métodos Monte Carlo para extraer parámetros físicos, entre otros. (Ver la sección de Artículos)' </div>
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
