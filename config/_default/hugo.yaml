@@ -14,7 +14,7 @@ baseURL: ''
 
 defaultContentLanguage: en
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: True
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
