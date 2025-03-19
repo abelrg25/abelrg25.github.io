@@ -37,7 +37,7 @@ profiles:
     url: https://github.com/abelrg25
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/abel-rosales-guzmán-71aa1b192
-  - icon: custom/kaggle-brands
+  - icon: custom/kaggle-brands-solid
     url: https://www.kaggle.com/abelr27
   - icon: academicons/orcid
     url: https://orcid.org/0009-0000-5049-9389
