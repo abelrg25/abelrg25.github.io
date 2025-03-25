@@ -271,4 +271,4 @@ awards:
 ---
 
 ## About Me
-Hello! My name is Abel and I am a Ph. D. in Astrophysics. My research interests include the study of evolved stars, also called AGB stars (AGB stands fo Asymptotic Giant Branc) through interferometric imaging. I also love programming, so, I love the Data Analysis and Data Science fields.
+Hello! My name is Abel and I am a Ph. D. in Astrophysics. Among my scientific interests is the study of evolved stars known as AGB stars (Asymptotic Giant Branch stars) using high-angular-resolution techniques and image reconstruction. I have a strong passion for programming and transforming data into valuable insights. With over four years of experience, I have been working on data extraction, cleaning, and analysis from both large and small datasets.
