@@ -32,14 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Scientific Research & Data Analytics: My Experience'
       subtitle: ''
       text: |-
         <div align="justify"> As an Early Career Researcher, I led various projects that resulted in the publication of two research articles in high-impact journals worldwide. I also collaborated with international groups on different projects, leading to the publication of three additional scientific articles.
 
-        During this period, I developed a range of skills, including a comprehensive understanding of Python and its various data analysis packages such as Pandas, NumPy, SciPy, Astropy, and Scikit-learn, as well as visualization tools like Matplotlib, which helped me prepare and interpret data effectively. I also gained experience working with operating systems such as macOS, Linux, and Windows.
+        During this period, I developed a range of skills, including a comprehensive understanding of **Python** and its various data analysis packages such as **Pandas**, **NumPy**, **SciPy**, **Astropy*, and **Scikit-learn**, as well as visualization tools like **Matplotlib**, which helped me prepare and interpret data effectively. I also gained experience working with operating systems such as **macOS**, **Linux**, and **Windows**.
 
-        Additionally, I completed the Google Data Analytics Certificate, expanding my expertise in SQL, Excel, R, and Tableau. This allowed me to strengthen my ability to manipulate, visualize, and analyze data efficiently.
+        Additionally, I completed the Google Data Analytics Certificate, expanding my expertise in **SQL**, **Excel**, **R**, and **Tableau**. This allowed me to strengthen my ability to manipulate, visualize, and analyze data efficiently.
 
         Finally, I learned to present my results at various national and international conferences, in both English and Spanish, tailoring my communication for audiences from a wide range of scientific disciplines. 
         Please reach out to collaborate! 😃 </div>
