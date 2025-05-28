@@ -1,5 +1,5 @@
 ---
-title: PyTorch
+title: Chicago Bycicle Data Analysis 
 date: 2025-02-18
 external_link: https://github.com/abelrg25/bicycles_data_analysis
 tags:
