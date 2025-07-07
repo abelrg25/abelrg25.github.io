@@ -12,17 +12,17 @@ authors:
   - admin
 
 tags:
-  - Ciencia de Datos
+  - Data Science
   - Python
   - Pandas
   - Numpy
   - Matplotlib
-  - Diseño de visualizaciones
-  - Visualizaciones efectivas
+  - Visualization design
+  - Effective visualizations
 ---
 
 
 
 
 
-[**Enlace al certificado**](https://coursera.org/share/97bb826108326e6b2804b76a9d403f55)
+[**Link to the certificate**](https://coursera.org/share/97bb826108326e6b2804b76a9d403f55)

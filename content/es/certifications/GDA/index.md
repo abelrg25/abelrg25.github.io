@@ -12,12 +12,12 @@ authors:
   - admin
 
 tags:
-  - Data Analytics
+  - Análisis de Datos
   - R
   - SQL
   - Tableau
-  - Spreadsheets
-  - Statistics
+  - Hojas de Cálculo
+  - Estadística
 ---
 
 

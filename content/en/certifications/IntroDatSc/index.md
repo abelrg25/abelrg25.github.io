@@ -12,18 +12,18 @@ authors:
   - admin
 
 tags:
-  - Ciencia de Datos
+  - Data Science
   - Python
   - Pandas
   - Numpy
-  - Estructuras de Datos
-  - Limpieza de Datos
-  - Manipulación de Datos
-  - Estadística
+  - Data Structures
+  - Data Cleaning
+  - Data Manipulation
+  - Statistics
 ---
 
 
 
 
 
-[**Enlace al certificado**](https://coursera.org/share/b54a0f1a6bdc0b3bb5c33822e18a4b43)
+[**Link to the certificate**](https://coursera.org/share/b54a0f1a6bdc0b3bb5c33822e18a4b43)

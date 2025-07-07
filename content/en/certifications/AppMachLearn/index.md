@@ -13,17 +13,17 @@ authors:
 
 tags:
   - Machine Learning
-  - Aprendizaje supervisado 
-  - Aprendizaje no supervisado
+  - Supervised Learning 
+  - Unsupervised Learning
   - Python 
   - Scikit learn
-  - Clasificación
-  - Regresión
-  - Agrupamiento
+  - Classification
+  - Regresion
+  - Clustering
 ---
 
 
 
 
 
-[**Enlace al certificado**](https://coursera.org/share/c76226c215174d1babf6f748840bdcc3)
+[**Link to the certificate**](https://coursera.org/share/c76226c215174d1babf6f748840bdcc3)

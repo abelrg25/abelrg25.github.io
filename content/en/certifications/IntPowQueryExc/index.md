@@ -14,14 +14,14 @@ authors:
 tags:
   - Excel
   - Power Query
-  - Importación de Datos
-  - Limpieza y Transformación de Datos 
-  - Estructuración
-  - Combinación de consultas
+  - Data importing
+  - Data cleaning and transformation 
+  - Data structuration
+  - Query combination
 ---
 
 
 
 
 
-[**Enlace al certificado**](https://www.datacamp.com/completed/statement-of-accomplishment/course/25701e6f6d2451cabb5ab39a2896737ddea2e172)
+[**Link to the certificate**](https://www.datacamp.com/completed/statement-of-accomplishment/course/25701e6f6d2451cabb5ab39a2896737ddea2e172)
