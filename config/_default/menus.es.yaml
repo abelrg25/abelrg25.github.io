@@ -17,6 +17,6 @@ main:
   - name: Proyectos
     url: projects/
     weight: 30
-#  - name: Enseñanza
-#    url: teaching/
-#    weight: 40
+  - name: Certificaciones
+    url: certifications/
+    weight: 40
