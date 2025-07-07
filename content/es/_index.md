@@ -35,13 +35,24 @@ sections:
       title: '📚 Ciencia y análisis de datos: Mi experiencia'
       subtitle: ''
       text: |-
-        <div align="justify"> Como investigador junior en ciencias, lideré dos proyectos que resultaron en la publicación de dos artículos de investigación en revistas de alto impacto a nivel mundial. Además, colaboré con grupos internacionales en diferentes proyectos, lo que llevó a la publicación de tres artículos adicionales.
+        <div align="justify"> 📚 Ciencia y análisis de datos: Mi experiencia
 
-        Durante este periodo, desarrollé diversas habilidades, incluyendo el dominio de **Python** y sus paquetes de análisis de datos como **Pandas**, **Numpy**, **Scipy**, **Astropy** y **Scikit-learn**, así como herramientas de visualización como **Matplotlib**, lo que facilitó la preparación y el análisis de gráficos. También adquirí experiencia trabajando con sistemas operativos como **MacOS**, **Linux** y **Windows**.
+        Como investigador junior en ciencias, lideré dos proyectos que resultaron en la publicación de artículos en revistas de alto impacto internacional. Además, colaboré con grupos científicos en diferentes partes del mundo, lo que llevó a la publicación de tres artículos adicionales.
 
-        Adicionalmente, completé el Certificado de Análisis de Datos de Google, donde amplié mis conocimientos en **SQL**, **Excel**, **R** y **Tableau**, fortaleciendo mis habilidades para la manipulación, visualización y análisis de datos.
+        Durante este periodo, desarrollé habilidades clave como el dominio de Python y bibliotecas de análisis de datos como Pandas, Numpy, Scipy, Astropy y Scikit-learn, así como herramientas de visualización como Matplotlib, que me permitieron procesar, analizar y comunicar datos complejos de manera eficiente. También trabajé con distintos sistemas operativos: MacOS, Linux y Windows.
 
-        Finalmente, pero no menos importante, aprendí a presentar mis resultados en diversas conferencias a nivel nacional e internacional, tanto en inglés como en español, adaptando la comunicación para audiencias de diversas disciplinas científicas.   
+        Adicionalmente, completé el Certificado de Análisis de Datos de Google, donde reforcé mis conocimientos en SQL, Excel, R y Tableau, ampliando mi capacidad para manipular datos, generar visualizaciones efectivas y extraer insights relevantes.
+
+        💡 Proyectos personales de análisis de datos
+
+        Como parte de mi transición hacia la ciencia de datos aplicada, he desarrollado proyectos personales orientados a problemas reales:
+        -	📈 Análisis de campañas de marketing bancario: Usando SQL y Tableau, exploré un conjunto de datos reales para identificar factores que influyen en la conversión de clientes. Calculé KPIs por canal, grupo de edad, historial de campañas y mes de contacto, y diseñé dashboards interactivos enfocados en la toma de decisiones.
+        -	🌡️ Análisis de cambio climático global: Procesé más de 170 años de datos de temperatura con Python para detectar tendencias, anomalías y eventos como El Niño y La Niña. Apliqué media móvil, regresión lineal y visualizaciones comparativas con gráficos explicativos y narrativas orientadas a públicos no técnicos.
+
+        Ambos proyectos los he documentado de forma clara y profesional en mi portafolio, y representan mi compromiso por aplicar el análisis de datos en contextos prácticos y diversos.
+
+        Finalmente, pero no menos importante, he aprendido a comunicar mis resultados en conferencias tanto nacionales como internacionales, en español e inglés, adaptando el lenguaje según el público —desde especialistas hasta audiencias multidisciplinarias.
+
         ¡Colaboremos juntos! 😃 </div>
     design:
       columns: '1'
