@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Astrofísico | Analista de Datos | Programador de Python
+role: Astrofísico | Analista de Datos | Científico de Datos | Programador de Python
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
