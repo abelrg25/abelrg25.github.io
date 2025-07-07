@@ -35,14 +35,23 @@ sections:
       title: '📚 Scientific Research & Data Analytics: My Experience'
       subtitle: ''
       text: |-
-        <div align="justify"> As an Early Career Researcher, I led various projects that resulted in the publication of two research articles in high-impact journals worldwide. I also collaborated with international groups on different projects, leading to the publication of three additional scientific articles.
+        <div align="justify"> As a junior researcher in science, I led two independent projects that resulted in publications in high-impact international journals. Additionally, I collaborated with research groups across the globe, contributing to three more published papers.
 
-        During this period, I developed a range of skills, including a comprehensive understanding of **Python** and its various data analysis packages such as **Pandas**, **NumPy**, **SciPy**, **Astropy**, and **Scikit-learn**, as well as visualization tools like **Matplotlib**, which helped me prepare and interpret data effectively. I also gained experience working with operating systems such as **macOS**, **Linux**, and **Windows**.
+        Throughout this time, I developed key skills such as proficiency in Python and its data analysis libraries including Pandas, Numpy, Scipy, Astropy, and Scikit-learn, along with visualization tools like Matplotlib, which allowed me to efficiently process, analyze, and present complex data. I also worked across multiple operating systems including MacOS, Linux, and Windows.
 
-        Additionally, I completed the Google Data Analytics Certificate, expanding my expertise in **SQL**, **Excel**, **R**, and **Tableau**. This allowed me to strengthen my ability to manipulate, visualize, and analyze data efficiently.
+        I later completed the Google Data Analytics Certificate, where I strengthened my skills in SQL, Excel, R, and Tableau, enhancing my ability to manipulate data, build visualizations, and extract valuable business insights.
 
-        Finally, I learned to present my results at various national and international conferences, in both English and Spanish, tailoring my communication for audiences from a wide range of scientific disciplines. 
-        Please reach out to collaborate! 😃 </div>
+        💡 Personal Data Analysis Projects
+
+        As part of my transition into applied data science, I’ve developed projects focused on real-world challenges:
+          •	📈 Bank Marketing Campaign Analysis: Using SQL and Tableau, I explored a real dataset to identify key factors influencing customer conversion. I calculated KPIs by contact channel, age group, previous campaign history, and contact month, and built interactive dashboards to support business decision-making.
+          •	🌡️ Global Climate Change Analysis: I processed over 170 years of global temperature data using Python to detect trends, anomalies, and events like El Niño and La Niña. I applied rolling averages, linear regression, and comparative visualizations, producing narrative-rich graphics accessible to non-technical audiences.
+
+        Both projects are clearly documented in my portfolio and reflect my commitment to applying data analysis across diverse, meaningful contexts.
+
+        Finally, I’ve had the opportunity to present my work at national and international conferences, both in Spanish and English, tailoring the communication style to audiences from various scientific and professional backgrounds.
+
+        Let’s work together! 😃 </div>
     design:
       columns: '1'
   - block: collection

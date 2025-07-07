@@ -35,9 +35,7 @@ sections:
       title: '📚 Ciencia y análisis de datos: Mi experiencia'
       subtitle: ''
       text: |-
-        <div align="justify"> 📚 Ciencia y análisis de datos: Mi experiencia
-
-        Como investigador junior en ciencias, lideré dos proyectos que resultaron en la publicación de artículos en revistas de alto impacto internacional. Además, colaboré con grupos científicos en diferentes partes del mundo, lo que llevó a la publicación de tres artículos adicionales.
+        <div align="justify"> Como investigador junior en ciencias, lideré dos proyectos que resultaron en la publicación de artículos en revistas de alto impacto internacional. Además, colaboré con grupos científicos en diferentes partes del mundo, lo que llevó a la publicación de tres artículos adicionales.
 
         Durante este periodo, desarrollé habilidades clave como el dominio de Python y bibliotecas de análisis de datos como Pandas, Numpy, Scipy, Astropy y Scikit-learn, así como herramientas de visualización como Matplotlib, que me permitieron procesar, analizar y comunicar datos complejos de manera eficiente. También trabajé con distintos sistemas operativos: MacOS, Linux y Windows.
 
