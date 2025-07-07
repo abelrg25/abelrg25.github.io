@@ -1,5 +1,5 @@
 ---
-title: 📊 Introducción a la ciencia de datos con Python
+title: 📊 Introduction to Data Science with Python
 summary: I studied the foundational concept of Data Science with python. By the end of the course, I was familiar with data manipulation and cleaning techniques using the python pandas data science library. I also learned about Series and DataFrames as the central data structures for data analysis. Furthermore, I also learned how to run basic inferential statistical analyses.
 date: 2024-08-28
 

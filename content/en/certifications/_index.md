@@ -1,5 +1,5 @@
 ---
-title: Certificaciones
+title: Certifications
 cms_exclude: true
 #url: talk
 

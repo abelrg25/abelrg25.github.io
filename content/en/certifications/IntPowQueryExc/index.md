@@ -1,5 +1,5 @@
 ---
-title: 📊 Introducción a Power Query en Excel
+title: 📊 Introduction to Power Query in Excel
 summary: In this certification, I learned to use Excel Power Query to import and organize data, handle errors, remove duplicates, and fill in missing values. I also worked with numerical transformations, date/time manipulation, and text formatting. Finally, I gained more advanced knowledge in structuring data through transposing, pivoting, grouping, and connecting multiple queries to build more comprehensive and user-friendly data analysis workflows. 
 date: 2025-06-04
 
