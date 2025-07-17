@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Descargar CV 
-        url: /uploads/CV_ARosales_DSc_Esp.pdf    
+        url: /uploads/CV_ARosales_DSc_Esp_v2.pdf    
     design:
       css_class: dark
       background:
